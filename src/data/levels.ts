@@ -38,7 +38,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-04-13T19:00:00-05:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/prv-qefy-jfb",
+      classLink: "https://meet.google.com/obk-ekfg-vmq",
     },
   },
   {
