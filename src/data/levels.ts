@@ -105,3 +105,5 @@ const levels: LevelConfig[] = [
     },
   },
 ];
+ 
+export default levels;
