@@ -15,7 +15,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-04-13T17:00:00-05:00",
+      startTime: "2026-04-13T19:00:00-05:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/yjr-kvtd-etc",
     },
@@ -36,7 +36,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-04-13T17:00:00-05:00",
+      startTime: "2026-04-13T19:00:00-05:00",
       durationMinutes: 60,
       classLink: "https://us04web.zoom.us/j/77192111259?pwd=GF6Ia7RIP8TEZhVHsazdPGlZF9x9Oy.1",
     },
@@ -57,7 +57,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-04-13T17:00:00-05:00",
+      startTime: "2026-04-13T19:00:00-05:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/nhv-ossw-mxz",
     },
@@ -78,7 +78,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-04-13T17:00:00-05:00",
+      startTime: "2026-04-13T19:00:00-05:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/obk-ekfg-vmq",
     },
@@ -99,7 +99,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-04-13T18:00:00-05:00",
+      startTime: "2026-04-13T20:00:00-05:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/ygo-hano-rib",
     },
