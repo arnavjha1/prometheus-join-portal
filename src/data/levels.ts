@@ -38,7 +38,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-04-13T18:00:00-05:00",
       durationMinutes: 60,
-      classLink: "https://us04web.zoom.us/j/77192111259?pwd=GF6Ia7RIP8TEZhVHsazdPGlZF9x9Oy.1",
+      classLink: "https://meet.google.com/prv-qefy-jfb",
     },
   },
   {
@@ -59,7 +59,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-04-13T18:00:00-05:00",
       durationMinutes: 60,
-      classLink: "https://us04web.zoom.us/j/77192111259?pwd=GF6Ia7RIP8TEZhVHsazdPGlZF9x9Oy.1",
+      classLink: "https://meet.google.com/prv-qefy-jfb",
     },
   },
   {
