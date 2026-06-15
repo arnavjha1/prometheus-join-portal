@@ -17,7 +17,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-06-15T19:00:00-15:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/dse-dxyu-akq",
+      classLink: "about:blank",
     },
   },
   {
@@ -38,7 +38,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-06-15T19:00:00-15:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/obk-ekfg-vmq",
+      classLink: "about:blank",
     },
   },
   {
@@ -59,7 +59,7 @@ const levels: LevelConfig[] = [
     nextClass: {
       startTime: "2026-06-15T20:00:00-15:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/obk-ekfg-vmq",
+      classLink: "about:blank",
     },
   },
 ];
