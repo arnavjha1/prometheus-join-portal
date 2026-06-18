@@ -15,7 +15,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-17T09:00:00-15:00",
+      startTime: "2026-06-18T09:00:00-15:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/dro-spgf-jje",
     },
@@ -36,9 +36,9 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-17T10:00:00-15:00",
+      startTime: "2026-06-18T09:00:00-15:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/gip-bqhp-swm",
+      classLink: "https://meet.google.com/dro-spgf-jje",
     },
   },
   {
@@ -57,9 +57,9 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-17T10:00:00-15:00",
+      startTime: "2026-06-18T09:00:00-15:00",
       durationMinutes: 60,
-      classLink: "https://meet.google.com/uwo-ofkd-myo",
+      classLink: "https://meet.google.com/dro-spgf-jje",
     },
   },
 ];
