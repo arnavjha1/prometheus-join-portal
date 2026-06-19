@@ -15,7 +15,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-19T09:00:00-5:00",
+      startTime: "2026-06-19T09:00:00-15:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/dro-spgf-jje",
     },
@@ -36,7 +36,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-19T09:00:00-5:00",
+      startTime: "2026-06-19T09:00:00-15:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/mks-zyxa-usi",
     },
@@ -57,7 +57,7 @@ const levels: LevelConfig[] = [
     githubLink: "about:blank",
     whatsappLink: "https://chat.whatsapp.com/DzYcETjfoas1Xx757jraJD",
     nextClass: {
-      startTime: "2026-06-19T10:00:00-5:00",
+      startTime: "2026-06-19T10:00:00-15:00",
       durationMinutes: 60,
       classLink: "https://meet.google.com/wps-wvym-vrm",
     },
